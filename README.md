@@ -11,9 +11,7 @@ A cutting-edge attendance management system that combines ID card scanning and f
 - **Report Generation**: Excel report export functionality for attendance records
 - **User-friendly Interface**: Simple and intuitive operation
 
-## 📸 Screenshots
 
-*(Add screenshots here showing the system in action)*
 
 ## 🛠️ Technologies Used
 
@@ -123,7 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions or support, please contact:
-- **Email**: sutharson20069@gmail.com
 - **GitHub**: [sutharson20069](https://github.com/sutharson20069)
 
 ---
